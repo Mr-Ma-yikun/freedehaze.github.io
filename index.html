@@ -199,10 +199,14 @@
       <div class="column is-four-fifths">
         <h2 class="title is-3">Methods</h2>
         
-      <figure class="image is-16by9 mb-4"> <!-- 'is-16by9' 是图片的宽高比，可根据需要调整 -->
+      <figure> <!-- 'is-16by9' 是图片的宽高比，可根据需要调整 -->
       <img src="./static/images/freedehaze.png" alt="Description of the image">
-        
-    </figure>
+      </figure>
+      <figcaption class="has-text-centered">
+        Proposed FreeDehaze implements image dehazing by three branches: reconstruction, perception, and dehazing. 
+        The reconstruction branch shares original image information, the perception branch generates a haze-free reference image from textual input, 
+        and the dehazing branch integrates information from both branches to achieve efficient dehazing with balanced fidelity and authenticity.
+      </figcaption>
       </div>
     </div>
     <!--/ Paper methods -->
