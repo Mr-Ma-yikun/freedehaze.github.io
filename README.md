@@ -1,7 +1,6 @@
 # Nerfies
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
-
+This is the repository that contains source code for the https://mr-ma-yikun.github.io/freedehaze.github.io/
 If you find Nerfies useful for your work please cite:
 ```
 @article{park2021nerfies
